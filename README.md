@@ -1,4 +1,9 @@
-# Weather-App
+## Group members
+- Hemanth Sai Garladinne - 20BAI10122
+- Isha Kondurkar - 20BAI10163
+- Akhil Pandey - 20BAI10314
+- Anurag Singhal - 20BAI10309
+- Abhinav Agrawal - 20BAI10243 
 
 # Program to create weatherapp using Tkinter and Mongodb database
 Here is the source code on how to program a graphical user interface application in python using the Tkinter library.
